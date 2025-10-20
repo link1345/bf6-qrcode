@@ -1,0 +1,11 @@
+{
+  "name": "portal_sample",
+  "version": "0.0.1",
+  "description": "Battlefield6 Sample Template : Rule Editor Script",
+  "devDependencies": {
+    "@types/eslint": "^9.6.1",
+    "@types/node": "20.6.0",
+    "@typescript-eslint/parser": "^8.46.0",
+    "typescript": "^5.3.3"
+  }
+}
