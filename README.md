@@ -13,4 +13,4 @@ Simply copy the contents of `mods/qrcode.ts` and `mods/qrcode.strings.json` into
 This program is based on the following repository,  
 though parts of the logic have been independently modified.
 
-https://github.com/davidshimjs/qrcodejs/blob/master/qrcode.js
+https://github.com/davidshimjs/qrcodejs
